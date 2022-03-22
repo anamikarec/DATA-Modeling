@@ -105,6 +105,7 @@
 - Users
 > ***The User should be able to view or edit profile information.***
 
+> ***User can like on comment to any post***
 
 > ***On the top left the user should have a profile photo***
 
