@@ -123,6 +123,3 @@
 
 
 > ***A user should be able to Like a post or a comment.***
-
-#### Ques:~Write down some queries ( no need to write actual queries, but the kind of information that users, and admins would like to see ). for example: - list 10 post by user_id with pagination descending order of date
-> ***
