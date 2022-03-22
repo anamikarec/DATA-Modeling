@@ -75,7 +75,18 @@
   comment_date:""
 ```
 #### Ques:~Write a requirement document for designing a system like LinkedIn.
-> ***
+***Schemas to create***
+> 
+> ***users***
+> 
+> ***posts***
+> 
+> ***job_description***
+> 
+> ***comments***
+> 
+> ***learnings***
+
 #### Ques:~Estimate daily read and writes, users, data transfer, list down all assumptions you have made
 > ***
 #### Ques:~Write down some queries ( no need to write actual queries, but the kind of information that users, and admins would like to see ). for example: - list 10 post by user_id with pagination descending order of date
