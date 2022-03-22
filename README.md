@@ -93,7 +93,7 @@
 - List out all the features
 - Identify entities related to the feature.
 
-
+- Users
 > ***The User should be able to view or edit profile information.***
 
 
@@ -113,6 +113,15 @@
 
 
 > ***A user should be able to Like a post or a comment.***
+
+- Posts
+> ***A post can be deleted by the creator of the post only***
+
+> ***Post can be liked by everyone***
+
+> ***Post can be commented by everyone***
+
+> ***Post can be visited by everyone***
 
 
 #### Ques:~Write down some queries ( no need to write actual queries, but the kind of information that users, and admins would like to see ). for example: - list 10 post by user_id with pagination descending order of date
