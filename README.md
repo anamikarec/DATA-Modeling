@@ -16,7 +16,15 @@
 > ***Embedding,Linking***
 
 
-- create an ERD / CRD diagram for a blog application
+#### Ques:~ create an ERD / CRD diagram for a blog application
+> ***the columns that we we choose***
+- title
+- body
+- tags
+- comment
+- author_name
+
+
 - create and design schema for each collection
 - Write a requirement document for designing a system like LinkedIn.
 - Estimate daily read and writes, users, data transfer, list down all assumptions you have made
