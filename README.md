@@ -95,11 +95,25 @@
 
 
 > ***The User should be able to view or edit profile information.***
+
+
 > ***On the top left the user should have a profile photo***
+
+
 > ***On the right side of the profile pic, the name and contact information should be displayed.***
+
+
 > ***A user may send a Connection request to other users. unless the recipient approves the connection request, the sender will just be a follower. once the connection request is accepted, both sender and recipient become followers of each other.***
+
+
 > ***A user should be able to write a Post.***
+
+
 > ***A user should be able to Comment on a post or reply to a comment.***
+
+
 > ***A user should be able to Like a post or a comment.***
+
+
 #### Ques:~Write down some queries ( no need to write actual queries, but the kind of information that users, and admins would like to see ). for example: - list 10 post by user_id with pagination descending order of date
 > ***
