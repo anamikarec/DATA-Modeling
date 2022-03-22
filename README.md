@@ -81,7 +81,7 @@
 > 
 > ***posts***
 > 
-> ***job_description***
+> ***jobs_with_description***
 > 
 > ***comments***
 > 
