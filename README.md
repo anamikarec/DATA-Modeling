@@ -17,12 +17,18 @@
 
 
 #### Ques:~ create an ERD / CRD diagram for a blog application
-> ***the columns that we we choose***
+> ***the field(columns) that we we choose***
+- post_id ```Primary key```
 - title
 - body
 - tags
 - comment
 - author_name
+> ***The post that we will choose will be 1:N, since a post can have so many comments but a comment will be attached to that particular post***
+
+> ***So there will be two schemas, one for posts and second for comments***
+
+> ***Here we will be using linking over embedding***
 
 
 - create and design schema for each collection
