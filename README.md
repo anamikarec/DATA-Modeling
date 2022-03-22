@@ -30,8 +30,22 @@
 
 > ***Here we will be using linking over embedding***
 
-
-- create and design schema for each collection
-- Write a requirement document for designing a system like LinkedIn.
-- Estimate daily read and writes, users, data transfer, list down all assumptions you have made
-- Write down some queries ( no need to write actual queries, but the kind of information that users, and admins would like to see ). for example: - list 10 post by user_id with pagination descending order of date
+- Post Collection:~
+```js
+    post_id: 1,
+    title:"",
+    body:"",
+    tags:"",
+    author_name:""
+```
+- Comment Collection
+```js
+  post_id: 1,
+  comment:"",
+  comment_author_name:"",
+  comment_date:""
+```
+#### Ques:~ create and design schema for each collection
+#### Ques:~Write a requirement document for designing a system like LinkedIn.
+#### Ques:~Estimate daily read and writes, users, data transfer, list down all assumptions you have made
+#### Ques:~Write down some queries ( no need to write actual queries, but the kind of information that users, and admins would like to see ). for example: - list 10 post by user_id with pagination descending order of date
