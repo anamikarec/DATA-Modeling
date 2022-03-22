@@ -1,6 +1,6 @@
 # DATA-Modeling
 
-> ***What are valid ways to represent this one-to-many relationship in MongoDB?***
+#### Ques:~ ***What are valid ways to represent this one-to-many relationship in MongoDB?***
 
 > ***So many different ways are there to mdel 1:N relationship, mainly three we generally use***
 
